@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://zoa-store-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://zoa-store-demo.myshopify.com/collections/all.atom"/>
+  <title>Zoa - Minimalist Shopify Theme</title>
+  <updated>2018-10-04T23:39:02-04:00</updated>
+  <author>
+    <name>Zoa - Minimalist Shopify Theme</name>
+  </author>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1638697205833</id>
+    <published>2018-10-04T23:39:02-04:00</published>
+    <updated>2018-10-04T23:39:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/ribbed-bodysuit"/>
+    <title>Ribbed Bodysuit</title>
+    <s:type></s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_8_b788beb3-ca8f-4ec1-a2bd-9d2e4826aed2.jpg?v=1538711093" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Round neck sweater with long sleeves. Features a knotted opening in the </span><br><span>front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non </span><br><span>dolor id commodo.</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1638697205833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1638696288329</id>
+    <published>2018-10-04T23:39:02-04:00</published>
+    <updated>2018-10-04T23:39:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/hooded-raincoat"/>
+    <title>Hooded Raincoat</title>
+    <s:type></s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_7_4352fcf1-cc30-4016-abbe-3048256874c4.jpg?v=1538711057" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Round neck sweater with long sleeves. Features a knotted opening in the </span><br><span>front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non </span><br><span>dolor id commodo.</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1638696288329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1638695895113</id>
+    <published>2018-10-04T23:39:02-04:00</published>
+    <updated>2018-10-04T23:39:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/ecologically-grown-cotton-t-shirt-1"/>
+    <title>Ecologically Grown Cotton T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_6_e3933eda-15dc-4b01-be32-a344d823eaba.jpg?v=1538711034" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Round neck sweater with long sleeves. Features a knotted opening in the </span><br><span>front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non </span><br><span>dolor id commodo.</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1638695895113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1638695141449</id>
+    <published>2018-10-04T23:39:02-04:00</published>
+    <updated>2018-10-04T23:39:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/long-sleeves-shirt"/>
+    <title>Long SLeeves Shirt</title>
+    <s:type></s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_5_4af34736-1e37-4692-927d-826a41da5f6e.jpg?v=1538711000" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Round neck sweater with long sleeves. Features a knotted opening in the </span><br><span>front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non </span><br><span>dolor id commodo.</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1638695141449</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1638694682697</id>
+    <published>2018-10-04T23:39:02-04:00</published>
+    <updated>2018-10-04T23:39:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/tencel-shirt"/>
+    <title>Tencel Shirt</title>
+    <s:type></s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_4_10811252-ebf5-40a2-89a9-65d46b65c78d.jpg?v=1538710981" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Round neck sweater with long sleeves. Features a knotted opening in the </span><br><span>front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non </span><br><span>dolor id commodo.</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1638694682697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1638694387785</id>
+    <published>2018-10-04T23:39:02-04:00</published>
+    <updated>2018-10-04T23:39:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/ecologically-grown-cotton-t-shirt"/>
+    <title>Ecologically Grown Cotton T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_3_3d54ab8f-2aa0-4a4d-8b18-34448143151f.jpg?v=1538710953" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Round neck sweater with long sleeves. Features a knotted opening in the </span><br><span>front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non </span><br><span>dolor id commodo.</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1638694387785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1638693371977</id>
+    <published>2018-10-04T23:39:02-04:00</published>
+    <updated>2018-10-04T23:39:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/jacket-with-pouch-pocket"/>
+    <title>Jacket With Pouch Pocket</title>
+    <s:type></s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_2_e2360188-4647-460b-bd1a-690cbb07ac9c.jpg?v=1538710908" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Round neck sweater with long sleeves. Features a knotted opening in the </span><br><span>front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non </span><br><span>dolor id commodo.</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1638693371977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1638693142601</id>
+    <published>2018-10-04T23:39:02-04:00</published>
+    <updated>2018-10-04T23:39:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/thin-parka-with-hood"/>
+    <title>Thin Parka With Hood</title>
+    <s:type></s:type>
+    <s:vendor>Zoa - Minimalist Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_1_517b41b9-5559-4297-ae41-c50dd245a207.jpg?v=1538710890" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Zoa - Minimalist Shopify Theme<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Round neck sweater with long sleeves. Features a knotted opening in the </span><br><span>front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non </span><br><span>dolor id commodo.</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1638693142601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1489324736585</id>
+    <published>2018-08-22T23:41:15-04:00</published>
+    <updated>2018-08-22T23:41:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/cardigan"/>
+    <title>Cardigan</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_17.jpg?v=1535508093" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong>Accessories<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Round neck sweater with long sleeves. Features a knotted opening in the front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non dolor id commodo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0-$29</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1489324736585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1468554051657</id>
+    <published>2018-08-22T23:41:15-04:00</published>
+    <updated>2018-08-22T23:41:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/snap-cap"/>
+    <title>Snap cap</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_6_c7dc9d7e-1e78-4e83-be8f-c06bd4c40b0c.jpg?v=1534995862" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong>Accessories<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Round neck sweater with long sleeves. Features a knotted opening in the front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non dolor id commodo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0-$29</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1468554051657</id>
+      <title>Black</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1468554051657</id>
+      <title>Red</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1468552314953</id>
+    <published>2018-08-22T23:41:15-04:00</published>
+    <updated>2018-08-22T23:41:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/brace-fun"/>
+    <title>Brace fun</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_5_9c46a911-13a7-481d-8aae-519419df5758.jpg?v=1534995844" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong>Accessories<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Round neck sweater with long sleeves. Features a knotted opening in the front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non dolor id commodo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0-$29</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1468552314953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1468550938697</id>
+    <published>2018-08-22T23:41:15-04:00</published>
+    <updated>2018-08-22T23:41:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/sneaker-high-top"/>
+    <title>Sneaker High top</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_4_eacdf0db-9987-40b1-aa8c-6438878b1ddb.jpg?v=1534995806" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong>Accessories<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Round neck sweater with long sleeves. Features a knotted opening in the front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non dolor id commodo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0-$29</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1468550938697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1468548546633</id>
+    <published>2018-08-22T23:41:15-04:00</published>
+    <updated>2018-08-22T23:41:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/sunglasses-ron"/>
+    <title>Sunglasses ron</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_3_b64d6460-b306-499c-ab1b-dadc75b6d6cb.jpg?v=1534995780" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong>Accessories<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Round neck sweater with long sleeves. Features a knotted opening in the front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non dolor id commodo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0-$29</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1468548546633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1468546941001</id>
+    <published>2018-08-22T23:41:15-04:00</published>
+    <updated>2018-08-22T23:41:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/watches-co"/>
+    <title>Watches co</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_2_ecb5dc3a-7f26-4161-a454-0616f8e56557.jpg?v=1534995742" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong>Accessories<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Round neck sweater with long sleeves. Features a knotted opening in the front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non dolor id commodo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0-$29</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1468546941001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1468545925193</id>
+    <published>2018-08-22T23:41:15-04:00</published>
+    <updated>2018-08-22T23:41:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/red-belt"/>
+    <title>Red Belt</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_1_0f51963b-5c37-4b5c-8b31-20bcc16295de.jpg?v=1534995726" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong>Accessories<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Round neck sweater with long sleeves. Features a knotted opening in the front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non dolor id commodo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0-$29</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1468545925193</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1468537667657</id>
+    <published>2018-08-22T23:36:24-04:00</published>
+    <updated>2018-08-22T23:36:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/long-sleeve-top"/>
+    <title>Long sleeve top</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_18.jpg?v=1534995610" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong>Clothing<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Round neck sweater with long sleeves. Features a knotted opening in the front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non dolor id commodo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0-$29</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1468537667657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1468536258633</id>
+    <published>2018-08-22T23:36:24-04:00</published>
+    <updated>2018-08-22T23:36:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/white-top"/>
+    <title>White top</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_15.jpg?v=1534995592" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong>Clothing<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Round neck sweater with long sleeves. Features a knotted opening in the front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non dolor id commodo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0-$29</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1468536258633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1468535177289</id>
+    <published>2018-08-22T23:36:24-04:00</published>
+    <updated>2018-08-22T23:36:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/t-shirt-v-neck"/>
+    <title>T-shirt v-neck</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_7_8fe3a6f0-d035-479c-9c7d-36ebfd667ffe.jpg?v=1534995571" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong>Clothing<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Round neck sweater with long sleeves. Features a knotted opening in the front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non dolor id commodo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0-$29</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1468535177289</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1468533866569</id>
+    <published>2018-08-22T23:36:24-04:00</published>
+    <updated>2018-08-22T23:36:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/wallet-black"/>
+    <title>Wallet black</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_10_77af6932-12f2-448c-a8a8-00f1409613cf.jpg?v=1534995548" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong>Clothing<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Round neck sweater with long sleeves. Features a knotted opening in the front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non dolor id commodo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0-$29</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1468533866569</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1468531998793</id>
+    <published>2018-08-22T23:36:24-04:00</published>
+    <updated>2018-08-22T23:36:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/top-shirt"/>
+    <title>Top Shirt</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_8_b93dd13f-d968-4e8d-a8f5-a07293ecf659.jpg?v=1534995520" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong>Clothing<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Round neck sweater with long sleeves. Features a knotted opening in the front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non dolor id commodo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0-$29</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1468531998793</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1468530982985</id>
+    <published>2018-08-22T23:36:24-04:00</published>
+    <updated>2018-08-22T23:36:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/short-sleeve-top"/>
+    <title>Short Sleeve Top</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_9_d2e25eb1-9f5e-4851-b4fc-d773afd5f2f2.jpg?v=1534995500" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong>Clothing<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Round neck sweater with long sleeves. Features a knotted opening in the front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non dolor id commodo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0-$29</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1468530982985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1468511813705</id>
+    <published>2018-08-22T23:29:42-04:00</published>
+    <updated>2018-08-22T23:29:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/baby-sneakers"/>
+    <title>Baby sneakers</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/Untitled-1.jpg?v=1535626747" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong>Clothing<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Round neck sweater with long sleeves. Features a knotted opening in the </span><br><span>front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non </span><br><span>dolor id commodo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0-$29</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1468511813705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1468510044233</id>
+    <published>2018-08-22T23:29:42-04:00</published>
+    <updated>2018-08-22T23:29:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/baby-long-sheeve"/>
+    <title>Baby Long Sheeve</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_5_27af2fe3-cd95-41b6-bcbf-bb051e24cb7d.jpg?v=1534995170" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong>Clothing<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Round neck sweater with long sleeves. Features a knotted opening in the </span><br><span>front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non </span><br><span>dolor id commodo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0-$29</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1468510044233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1468508700745</id>
+    <published>2018-08-22T23:29:42-04:00</published>
+    <updated>2018-08-22T23:29:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/baby-hat"/>
+    <title>Baby Hat</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_4_e433c93b-e09d-4c10-8c6b-a9cc4c6e9a2e.jpg?v=1534995140" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong>Clothing<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Round neck sweater with long sleeves. Features a knotted opening in the </span><br><span>front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non </span><br><span>dolor id commodo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0-$29</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1468508700745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zoa-store-demo.myshopify.com/products/1468507717705</id>
+    <published>2018-08-22T23:29:42-04:00</published>
+    <updated>2018-08-22T23:29:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://zoa-store-demo.myshopify.com/products/baby-totes"/>
+    <title>Baby Totes</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>zoa-store-demo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/2819/1305/products/product_3_c11ef1a3-23be-402f-a64a-6abb3a67d19d.jpg?v=1534995124" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>zoa-store-demo<br />
+        <strong>Type: </strong>Clothing<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Round neck sweater with long sleeves. Features a knotted opening in the </span><br><span>front. Phasellus gravida dolor in sem placerat sodales lullam feugiat non </span><br><span>dolor id commodo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0-$29</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://zoa-store-demo.myshopify.com/products/1468507717705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

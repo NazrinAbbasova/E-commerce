@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Eina';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Eina 03 Bold'), url(Eina03-Bold.ttf);
+  font-display: block;
+}
+@font-face {
+  font-family: 'Eina';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Eina 03 Light'), url(Eina03-Light.ttf);
+  font-display: block;
+}
+@font-face {
+  font-family: 'Eina';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Eina 03 SemiBold'), url(Eina03-SemiBold.ttf);
+  font-display: block;
+}
+@font-face {
+  font-family: 'Eina';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Eina 03 Regular'), url(Eina03-Regular.ttf);
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'bukan';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Mind Blowing Alt'), url(Mind_Blowing_Alt.ttf);
+  font-display: block;
+}

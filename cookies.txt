@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+zoa-store-demo.myshopify.com	TRUE	/2228191305/checkouts/d93aab0c519a95a89420f2e03b96fcd2	FALSE	1999999999	checkout	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVZpWXpJek1qZGpZbVl4TjJVMFpEWTVNamRpWXpCak4yVTJPVFpqWXpnMll3WTZCa1ZVIiwiZXhwIjoiMjAxOC0xMS0wOVQxNzozOTo1Mi4xMThaIiwicHVyIjpudWxsfX0%3D--1216de35837cffb2505cdcab4a95db2653618527
+zoa-store-demo.myshopify.com	TRUE	/2228191305	FALSE	1999999999	checkout_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVZrT1ROaFlXSXdZelV4T1dFNU5XRTRPVFF5TUdZeVpUQXpZamsyWm1Oa01nWTZCa1ZVIiwiZXhwIjoiMjAxOS0xMC0xOVQxNjozOTo1Mi4xMThaIiwicHVyIjpudWxsfX0%3D--aebea996f51d2e6289c012df2efc70760439bd35
+zoa-store-demo.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+zoa-store-demo.myshopify.com	TRUE	/	FALSE	1999999999	_secure_session_id	e4c188a6ba83f975244375db2cf3148a
+zoa-store-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+zoa-store-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart_ts	1539967189
+zoa-store-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart	0c6d962954941b946ce3e66540df827b
+zoa-store-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	42deea46-2054-473e-aa85-96edcd386f9a
+zoa-store-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	aff85348-54f2-47e9-a876-ecc8b829899a
+
